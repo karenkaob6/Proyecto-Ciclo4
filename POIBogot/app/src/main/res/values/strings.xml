@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">POI Bogotá</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Puntos de interés en Bogotá</string>
+    <string name="second_fragment_label">Monserrate</string>
+    <string name="third_fragment_label">Planetario</string>
+    <string name="next">Ver</string>
+    <string name="next2">Ver</string>
+    <string name="previous">Previous</string>
+    <string name="infoMonserrate">El cerro de Monserrate es el más conocido
+        de los cerros Orientales de Bogotá. Junto a Guadalupe es
+        uno de los cerros tutelares de la ciudad. Monserrate tiene
+        una altitud de 3152 m y se ubica sobre la cordillera oriental.</string>
+    <string name="infoPlanetario">El Planetario de Bogotá es un escenario cultural
+        y de divulgación científica integrado desde 2012 al Instituto Distrital de
+        las Artes - Idartes, entidad adscrita a la Secretaría de Cultura, Recreación
+        y Deporte de la Alcaldía Mayor de Bogotá.
+        </string>
+    <string name="direccionMonserrate"> Carrera 2da este #21-48</string>
+    <string name="direccionPlanetario"> Carrera 6A #26-07</string>
+    <string name="climaMonserrate"> 19C°</string>
+    <string name="climaPlanetario"> 20C°</string>
+
+
+    <string name="hello_first_fragment">Monserrate</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_third_fragment">Hello third fragment. Arg: %1$s</string>
+</resources>
