@@ -1,0 +1,45 @@
+{
+  "pointsinterest" : [
+    {
+      "pointsInterestName":"Planetario",
+      "addressPointsInterest":"Carrera 6A #26-07",
+      "pointsInterestDescription":"El Planetario de Bogotá es un escenario cultural y de divulgación científica integrado desde 2012 al Instituto Distrital de las Artes - Idartesentidad adscrita a la Secretaría de Cultura Recreación y Deporte de la Alcaldía Mayor de Bogotá.",
+      "pointsInterestImage":"https://www.culturarecreacionydeporte.gov.co/sites/default/files/adjuntos_paginas_2014/planetario_iii.jpg",
+      "temperaturePointsInterest":"19C°",
+      "pointsInterestRate":"4.6"
+    },
+    {
+      "pointsInterestName":"Museo Nacional",
+      "addressPointsInterest":"Carrera 7 N. 28-66",
+      "pointsInterestDescription":"El Museo Nacional de Colombia fue creado en 1823, y es uno de los más antiguos de América. Ofrece a sus visitantes diecisiete salas de exposición permanente, en las cuales se exhiben alrededor de 2.500 obras y objetos, símbolos de la historia y el patrimonio nacional. ",
+      "pointsInterestImage":"https://www.museonacional.gov.co/elementosDifusion/2016/noticias/CumpleMuseo.jpg",
+      "temperaturePointsInterest":"20C°",
+      "pointsInterestRate":"4.7"
+    },
+    {
+      "pointsInterestName":"Monserrate",
+      "addressPointsInterest":"Carrera 2da #21-48",
+      "pointsInterestDescription":"El cerro de Monserrate es el más conocido de los cerros Orientales de Bogotá. Junto a Guadalupe es uno de los cerros tutelares de la ciudad. Monserrate tiene una altitud de 3152 m y se ubica sobre la cordillera oriental.",
+      "pointsInterestImage":"https://dam.tbg.com.mx/content/dam/tbg/mexico/natgeo/mx/traveler/lugares/17/10/12/santuario-de-monserrate-bogota.jpg.imgo.jpg",
+      "temperaturePointsInterest":"15C°",
+      "pointsInterestRate":"4.7"
+    },
+    {
+      "pointsInterestName":"Plazoleta del Chorro de Quevedo",
+      "addressPointsInterest":"Calle 12B carrera 2",
+      "pointsInterestDescription":"La plazoleta del Chorro de Quevedo es un lugar público de Bogotá. En este lugar estableció su guarnición militar Gonzalo Jiménez de Quesada, antes de fundar la ciudad en este mismo lugar en 1538. Se encuentra enmarcada por construcciones coloniales y de principios del siglo XX.",
+      "pointsInterestImage":"https://lonelyplanetimages.imgix.net/a/g/hi/t/e593a4688ed33ad7330e1e27010a8508-plazoleta-del-chorro-de-quevedo.jpg",
+      "temperaturePointsInterest":"18C°",
+      "pointsInterestRate":"4.6"
+    },
+    {
+      "pointsInterestName":"Jardín botánico",
+      "addressPointsInterest":"Avenida Calle 63 No. 68-95",
+      "pointsInterestDescription":"El Jardín Botánico de Bogotá lleva el nombre del astrónomo y botánico don José Celestino Mutis.",
+      "pointsInterestImage":"https://cloudfront-us-east-1.images.arcpublishing.com/semana/KOCWER7KMZFQDODQVURYOMDXOQ.jpg",
+      "temperaturePointsInterest":"21C°",
+      "pointsInterestRate":"4.4"
+    }
+  ]
+
+}
