@@ -1,9 +1,11 @@
 package com.example.poibogota
 
-data class PointsInterest (
-    val pointsInterestName: String,
+
+data class PointsInterest(
+
+
+    val  pointsInterestName: String,
     val pointsInterestDescription: String,
     val pointsInterestRate: String,
-    val pointsInterestImage: String
-
+    val pointsInterestImage: String,
     )
