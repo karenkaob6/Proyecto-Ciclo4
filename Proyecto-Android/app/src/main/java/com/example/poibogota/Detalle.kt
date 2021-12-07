@@ -2,6 +2,7 @@ package com.example.poibogota
 
 import android.app.Activity
 import android.content.Intent
+import com.squareup.picasso.Picasso
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
@@ -19,8 +20,17 @@ class Detalle : AppCompatActivity() {
         binding= ActivityDetalleBinding.inflate(layoutInflater)
         setContentView(binding.root)
         setContentView(R.layout.activity_detalle)
-            intent.getStringExtra("name")
-            intent.getStringExtra("description")
+
+        val name=  intent.getStringExtra("name")
+        val description=  intent.getStringExtra("description")
+        val imagen=  intent.getStringExtra("imagen")
+        tvNameDetalle= findViewById(R.id.tvName)
+        tvDescriptionDetalle = findViewById(R.id.tvDescription)
+        ivImageDetalle= findViewById(R.id.ivImage)
+
+        tvNameDetalle.setText(name)
+        tvDescriptionDetalle.setText(description)
+        Picasso.get().load(imagen).into(ivImageDetalle)
 
     }
 }

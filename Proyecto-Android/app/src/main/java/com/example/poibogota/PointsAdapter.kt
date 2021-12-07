@@ -56,7 +56,7 @@ class PointsAdapter( val pointsinterest:List<PointsInterest>):RecyclerView.Adapt
             intent.putExtra("name", poi.pointsInterestName)
             intent.putExtra("description",poi.pointsInterestDescription)
             intent.putExtra("imagen", poi.pointsInterestImage)
-          context.startActivity(intent)
+            context.startActivity(intent)
 
         }
 
