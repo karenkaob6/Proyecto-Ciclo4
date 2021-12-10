@@ -41,6 +41,7 @@ class PointsAdapter( val pointsinterest:List<PointsInterest>):RecyclerView.Adapt
             context=view.context
             binding.tvName.text=pointsinterest.pointsInterestName
             binding.tvRate.text=pointsinterest.pointsInterestRate
+
             binding.tvDescription.text=pointsinterest.pointsInterestDescription
             secondActivitybtn=binding.secondActivitybtn
             Picasso.get().load(pointsinterest.pointsInterestImage).into(view.ivImage);
@@ -57,6 +58,7 @@ class PointsAdapter( val pointsinterest:List<PointsInterest>):RecyclerView.Adapt
             intent.putExtra("description",poi.pointsInterestDescription)
             intent.putExtra("imagen", poi.pointsInterestImage)
             intent.putExtra("rate", poi.pointsInterestRate)
+            intent.putExtra("map", poi.pointsInterestMap)
           context.startActivity(intent)
 
         }

@@ -46,6 +46,14 @@
             android:paddingStart="15dp"
             android:paddingTop="10dp"
             android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/mapButton"
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:text="Ver mapa"
+            android:onClick="onAndrea"
+            />
     </LinearLayout>
 
 

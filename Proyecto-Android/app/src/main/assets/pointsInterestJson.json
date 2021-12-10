@@ -6,7 +6,8 @@
       "pointsInterestDescription":"El Planetario de Bogotá es un escenario cultural y de divulgación científica integrado desde 2012 al Instituto Distrital de las Artes.",
       "pointsInterestImage":"https://www.culturarecreacionydeporte.gov.co/sites/default/files/adjuntos_paginas_2014/planetario_iii.jpg",
       "temperaturePointsInterest":"19C°",
-      "pointsInterestRate":"4.6"
+      "pointsInterestRate":"4.6",
+      "pointsInterestMap":"https://goo.gl/maps/e4AvASWyXWKtaz9p7"
     },
     {
       "pointsInterestName":"Museo Nacional",
@@ -14,7 +15,8 @@
       "pointsInterestDescription":"El Museo Nacional de Colombia fue creado en 1823, y es uno de los más antiguos de América.",
       "pointsInterestImage":"https://www.museonacional.gov.co/elementosDifusion/2016/noticias/CumpleMuseo.jpg",
       "temperaturePointsInterest":"20C°",
-      "pointsInterestRate":"4.7"
+      "pointsInterestRate":"4.7",
+      "pointsInterestMap":"https://goo.gl/maps/VU3FcdKwFS5wyvo2A"
     },
     {
       "pointsInterestName":"Monserrate",
@@ -22,7 +24,8 @@
       "pointsInterestDescription":"El cerro de Monserrate es el más conocido de los cerros Orientales de Bogotá. Junto a Guadalupe es uno de los cerros tutelares de la ciudad.",
       "pointsInterestImage":"https://dam.tbg.com.mx/content/dam/tbg/mexico/natgeo/mx/traveler/lugares/17/10/12/santuario-de-monserrate-bogota.jpg.imgo.jpg",
       "temperaturePointsInterest":"15C°",
-      "pointsInterestRate":"4.7"
+      "pointsInterestRate":"4.7",
+      "pointsInterestMap":"https://goo.gl/maps/KqQYdpeetJmpZZa99"
     },
     {
       "pointsInterestName":"Plazoleta del Chorro de Quevedo",
@@ -30,7 +33,8 @@
       "pointsInterestDescription":"La plazoleta del Chorro de Quevedo es un lugar público de Bogotá. En este lugar estableció su guarnición militar Gonzalo Jiménez de Quesada, antes de fundar la ciudad en este mismo lugar en 1538.",
       "pointsInterestImage":"https://lonelyplanetimages.imgix.net/a/g/hi/t/e593a4688ed33ad7330e1e27010a8508-plazoleta-del-chorro-de-quevedo.jpg",
       "temperaturePointsInterest":"18C°",
-      "pointsInterestRate":"4.6"
+      "pointsInterestRate":"4.6",
+      "pointsInterestMap":"https://goo.gl/maps/No2RBG9WzyEPfmaM9"
     },
     {
       "pointsInterestName":"Jardín botánico",
@@ -38,7 +42,8 @@
       "pointsInterestDescription":"El Jardín Botánico de Bogotá lleva el nombre del astrónomo y botánico don José Celestino Mutis.",
       "pointsInterestImage":"https://cloudfront-us-east-1.images.arcpublishing.com/semana/KOCWER7KMZFQDODQVURYOMDXOQ.jpg",
       "temperaturePointsInterest":"21C°",
-      "pointsInterestRate":"4.4"
+      "pointsInterestRate":"4.4",
+      "pointsInterestMap":"https://goo.gl/maps/Pg4QBpFQnpP6pGoeA"
     }
   ]
 
