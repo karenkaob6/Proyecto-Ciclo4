@@ -1,5 +1,5 @@
 package com.example.poibogota
 
-class Response {
-    val pointsinterest:List<PointsInterest>?=null
-}
+data class Response (
+    val pointsinterest:List<PointsInterest>
+)
